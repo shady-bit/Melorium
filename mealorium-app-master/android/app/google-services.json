@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "500117415344",
+    "project_id": "fudelo-bebe2",
+    "storage_bucket": "fudelo-bebe2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500117415344:android:81bb27985b0b9635232275",
+        "android_client_info": {
+          "package_name": "com.mealorium.mealorium"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "500117415344-d9v9knhkgf7dqsocdtts00co54bg4ror.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mealorium.mealorium",
+            "certificate_hash": "baa51878c7b1ef3239c7d67255cc1bab379286b1"
+          }
+        },
+        {
+          "client_id": "500117415344-q8f3mrfu3r2p35ht47b5jtutjorajjc3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk2Qv5_ugSA0uRh4S5BYvV1Zc3XWJ3eiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "500117415344-q8f3mrfu3r2p35ht47b5jtutjorajjc3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
